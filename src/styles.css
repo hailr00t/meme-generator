@@ -63,5 +63,13 @@ main {
     background: linear-gradient(135deg, #711F8D 0%, #A818DA 100%);
     color: #FFF;
     border: none;
+    cursor: pointer;
 }
 
+.meme--image {
+    display: block;
+    max-width: 100%;
+    margin: auto;
+    padding: 25px;
+
+}
